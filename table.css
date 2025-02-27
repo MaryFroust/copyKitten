@@ -1,0 +1,30 @@
+/*Apply black borders to all inner cells*/
+.row-1{
+  border-inline:2px solid black;
+  border-bottom: 2px solid black;
+  padding-bottom:5px ;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-inline-start: 1px;
+  margin-inline-end: 1px;
+}
+.row-2{
+  border-inline:2px solid black;
+  border-bottom: 2px solid black;
+  padding-bottom:5px ;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-inline-start: 1px;
+  margin-inline-end: 1px;
+ 
+ 
+}
+.row-3{
+    border-inline:2px solid black;
+  
+  padding-bottom:5px ;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-inline-start: 1px;
+  margin-inline-end: 1px;
+}
