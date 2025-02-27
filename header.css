@@ -2,19 +2,20 @@
    
     display: inline;
     margin: 8px 25px
-    
-}
+  }
+
 ul{
     background-color: rgb(37, 36, 36);
     height: 45px;
     text-align: center;
     padding: 10px;
+    a{
+      text-decoration: none;
+      color: white;
+    }
+    
 }
-  a{
-    color: white;
-    text-decoration: none;
-
-  }
+  
   .header-link:hover{
     cursor: pointer; 
     a{
